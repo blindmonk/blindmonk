@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/Blankj">
+    <img src="https://github-readme-stats.vercel.app/api?username=blindmonk&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  </a>
+</p>
 
-<!--
-**blindmonk/blindmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://juejin.cn/user/166781495818408">
+    <img src="https://img.shields.io/badge/🌱%20掘金-王猛猛-brightness.svg" />
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
