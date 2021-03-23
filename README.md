@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="https://github.com/Blankj">
-    <img src="https://github-readme-stats.vercel.app/api?username=blindmonk&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
-  </a>
-</p>
+### 你好 👋, 我的名字叫王猛猛
 
-<p align="center">
-  <a href="https://juejin.cn/user/166781495818408">
-    <img src="https://img.shields.io/badge/🌱%20掘金-王猛猛-brightness.svg" />
-  </a>
+- 💻 &nbsp; 我是程序爱好者，也是一名Android开发者
+- 🌉 &nbsp; 我在北京工作
+- 🎨 &nbsp; 我正在梳理Android相关的知识体系图鉴
+- 💬 &nbsp; 问我任何问题，我都会倾听和帮助🤗
 
-</p>
+
+- 📫 &nbsp; [掘金](https://juejin.cn/user/166781495818408)
